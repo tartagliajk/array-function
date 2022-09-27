@@ -1,0 +1,1 @@
+/*Skapa en funktion som omvandlar en array som innehåller tal i kilometer till meter. */

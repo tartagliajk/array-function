@@ -1,0 +1,1 @@
+//Skapa en funktion som tar in en array och skriver ut längden på den:

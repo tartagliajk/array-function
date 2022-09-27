@@ -1,0 +1,1 @@
+/*Skapa en funktion som tar in två arrayer och skriver true om de är identiska*/
